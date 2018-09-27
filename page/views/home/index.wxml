@@ -1,0 +1,7 @@
+<view class="home">
+<block wx:for="{{pepoles}}" wx:key="{{index}}">
+  <view class="item">
+    <image style="height: 200px;" mode="aspectFit" src="{{item.url}}"></image>
+   </view>
+  </block>
+</view>

@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "page/views/home/index",
+    "page/views/list/list"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "苏卿阁",
+    "navigationBarTextStyle": "black"
+  }
+}
